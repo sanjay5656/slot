@@ -1,0 +1,21 @@
+.name{
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg{
+    background-color: rgb(222, 217, 187);
+}
+.table1{
+    background-color: rgb(250, 235, 215);
+}
+.table2{
+    background-color: rgb(213, 202, 228);
+}    
+.dt{
+    background-color: rgb(166, 224, 232);
+}
+.fs{
+    color: coral;
+}
+b{ 
+    color:rgb(36, 99, 105); 
+}
